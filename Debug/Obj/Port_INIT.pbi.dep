@@ -1,0 +1,4 @@
+Port_INIT.pbi: \
+  C:\Users\lilwiz\Documents\embedded\ projects\lcd\Port_INIT.c \
+  C:\Users\lilwiz\Documents\embedded\ projects\lcd/tm4c123gh6pm.h \
+  C:\Users\lilwiz\Documents\embedded\ projects\lcd/Port_INIT.h
